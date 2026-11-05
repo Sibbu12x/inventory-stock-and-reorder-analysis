@@ -1,0 +1,4 @@
+location_id,location_name,region
+"LOC001","Central Warehouse","West"
+"LOC002","East Store","East"
+"LOC003","South Store","South"

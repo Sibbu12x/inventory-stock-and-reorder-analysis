@@ -1,0 +1,9 @@
+supplier_id,supplier_name,lead_time_days,minimum_order_qty,contact_email,active
+"SUP001","Northstar Supply Co.","7","5","orders1@example.test","true"
+"SUP002","Apex Supply Co.","12","10","orders2@example.test","true"
+"SUP003","Harbor Supply Co.","5","1","orders3@example.test","true"
+"SUP004","Summit Supply Co.","18","12","orders4@example.test","true"
+"SUP005","Metro Supply Co.","9","6","orders5@example.test","true"
+"SUP006","Pioneer Supply Co.","14","8","orders6@example.test","true"
+"SUP007","Cedar Supply Co.","6","3","orders7@example.test","true"
+"SUP008","Atlas Supply Co.","21","10","orders8@example.test","true"
